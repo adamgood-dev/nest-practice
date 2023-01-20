@@ -6,7 +6,7 @@ This is a simple backend CRUD API created to get myself familiar with Typescript
 - Install dependencies with ```npm install```
 - Start the Postgres database with Docker using ```docker-compose up```
 - Run database migrations with ```npx prisma migrate dev```
-- Start the project with ```npx run start:dev```
+- Start the project with ```npm run start:dev```
 - Make API calls through the browser at http://localhost:3000/users/ or through Postman.
 
 ## Credits
